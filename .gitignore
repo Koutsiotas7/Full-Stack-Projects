@@ -1,0 +1,37 @@
+# -------------------------
+# Node / React
+# -------------------------
+node_modules/
+dist/
+build/
+.npm/
+.cache/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# -------------------------
+# Java / Maven (Spring Boot)
+# -------------------------
+/target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# -------------------------
+# IDEs / Editors
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db

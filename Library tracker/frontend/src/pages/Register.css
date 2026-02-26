@@ -1,0 +1,28 @@
+.register-container {
+  width: 300px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+.register-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-container input {
+  margin: 10px 0;
+  padding: 8px;
+}
+
+.register-container button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}

@@ -1,0 +1,22 @@
+.book-form{
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.book-form input{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.book-form button{
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.book-form .error{
+    color: darkred;
+    font-weight: bold;
+}

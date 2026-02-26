@@ -1,0 +1,53 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: #222;
+  color: white;
+}
+
+.navbar-logo {
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-logo:hover{
+  color: lightgray;
+}
+
+.navbar-links a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+}
+
+.logout-btn {
+  background-color: rgb(250, 110, 110);
+  margin-left: 20px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.navbar a.login-link{
+  color: lightgreen;
+}
+
+.navbar a.login-link:hover{
+  color: rgb(89, 236, 89);
+}
+
+.navbar-links a.admin-loans-link{
+  color: lightblue;
+}
+
+.navbar-links a.admin-loans-link:hover{
+  color: rgb(112, 196, 224);
+}

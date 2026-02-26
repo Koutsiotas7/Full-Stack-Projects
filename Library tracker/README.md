@@ -39,7 +39,8 @@ This app allows users to browse and rent books while admins can manage books and
 
 ### 1. Clone the repository
 
-git clone https://github.com/Koutsiotas7/Full-Stack-Projects.git cd Full-Stack-Projects/library-tracker
+git clone https://github.com/Koutsiotas7/Full-Stack-Projects.git 
+cd Full-Stack-Projects/library-tracker
 
 ### 2. Backend Setup
 cd backend
